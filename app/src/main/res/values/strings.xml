@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">praktikum5muhamadsyahrilsuhandi</string>
+    <string name="textJudul">Mengenal Jenis Binatang</string>
+    <string name="imageDeskripsi">Gambar</string>
+    <string name="textDeskripsi">Nama Binatang</string>
+    <string name="textButton">Tes Suara</string>
+    <string name="textPindahGrid">Pindah ke Tampilan Grid</string>
+    <string name="textPindahList">Pindah ke Tampilan List</string>
+</resources>
